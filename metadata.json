@@ -1,0 +1,6 @@
+{
+  "name": "Unknown AI",
+  "description": "Unknown AI — A modern, professional conversational AI workspace for writing, coding, research, and analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
